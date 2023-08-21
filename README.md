@@ -2,9 +2,8 @@
 
 Bonjour, bienvenue sur le répo de ce petit test des verbes irréguliers en allemand. Je l'ai créé afin d'aider quelqu'un à les réviser pour ses études. Très basique, il fonctionne plutôt bien. Je l'améliorerai peut-être un jour
 
-Voici [le site](http://germantest.rial7539.odns.fr/) en question.
-
-Et voici le [répo du serveur](https://github.com/Alexandre-RICHARD/Portfolio-Back) lié.
+Voici [le site](https://germantest.alexandre-richard.fr/) en question.
+Et [son répo](https://github.com/Alexandre-RICHARD/German-Test)
 
 ## Historique des versions
 
@@ -33,5 +32,10 @@ Et voici le [répo du serveur](https://github.com/Alexandre-RICHARD/Portfolio-Ba
 
 -   Mise à jour des package npm
 -   Rajout de deux lignes de configurations pour webpack et vueJS
+
+### 1.0.4 `21 août 2023`
+
+-   Maintenant que j'ai récupéré le nom de domaine, actualisation de tous les liens sortant
+-   Mise à jour des packages npm
 
 </details>
