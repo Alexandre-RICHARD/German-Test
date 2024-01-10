@@ -1,3 +1,9 @@
+# ⚠️⚠️⚠️⚠️⚠️
+
+## Ce projet est à l'arrêt. Ce message est général à tous mes projets concernés et à un stade trop initial pour être intéressant. Actuellement arrêté en plein dans son développement, il est très probablement non-fonctionnel ou du moins, pas à 100%.
+
+# ⚠️⚠️⚠️⚠️⚠️
+
 # German Test
 
 Bonjour, bienvenue sur le répo de ce petit test des verbes irréguliers en allemand. Je l'ai créé afin d'aider quelqu'un à les réviser pour ses études. Très basique, il fonctionne plutôt bien. Je l'améliorerai peut-être un jour
